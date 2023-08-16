@@ -1,6 +1,0 @@
-{{#user}
-Name: Sanya
-Skills: HTML, CSS, JS, React.JS,C++,Java,C,ProblemSolving,OOPS,DSA
-Email: rajsanya05@gmail.com
-{{/user}}
-
